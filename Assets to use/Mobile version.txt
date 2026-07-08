@@ -1,0 +1,218 @@
+# Real Estate Mobile Application for Pakistan
+
+## UI
+
+The User Interface shall begin with a cinematic shot of a property as the background. For mobile optimization and faster loading times, the background shall preferably be a high-quality static image or a highly compressed short video. A semi-transparent dark overlay shall be applied over the background to ensure readability of content.
+
+Over the background, on the left side, the name of the real estate business shall be written in bold white fonts. At the bottom section of the hero area, there shall be a professional tagline written in small, elegant fonts.
+
+The top header section shall contain the company logo on the left side and a hamburger menu icon (☰) on the right side. Upon clicking the hamburger menu, a slide-out navigation drawer shall appear containing the following items:
+
+→ Business Name
+→ [WWW.Business.COM](http://WWW.Business.COM)
+→ About Us
+→ Projects
+→ News
+→ Client Journey
+→ Affiliate
+→ Contact Us
+→ +92-_________
+
+The header shall remain sticky while scrolling and shall reduce in height to occupy less screen space.
+
+The hero section shall also contain a prominent "Chat on WhatsApp" button. Upon clicking the button, the user shall be redirected directly to the WhatsApp Business number of the company.
+
+---
+
+## For Sale Properties Section
+
+Below the hero section shall be a dedicated "FOR SALE" section.
+
+A large centered heading shall be displayed stating:
+
+**FOR SALE**
+
+On mobile devices, properties shall be displayed in a single-column layout using full-width property cards.
+
+Initially, three (3) properties shall be visible at a time.
+
+Each property card shall contain:
+
+* Full-width property image
+* Property name
+* Short description
+* Property rate displayed prominently at the bottom
+* Agent name displayed below the rate in smaller fonts
+
+A full-width "Show More" button shall be displayed below the property listings. Upon clicking the button, three additional properties shall be loaded and displayed.
+
+The content background shall remain plain white.
+
+---
+
+## For Rent Properties Section
+
+Below the "For Sale" section shall be a dedicated "FOR RENT" section.
+
+A large centered heading shall be displayed stating:
+
+**FOR RENT**
+
+On mobile devices, properties shall be displayed in a single-column layout using full-width property cards.
+
+Initially, three (3) rental properties shall be visible at a time.
+
+Each property card shall contain:
+
+* Full-width property image
+* Property name
+* Short description
+* Rental rate prominently displayed
+* Agent name displayed beneath the rate
+
+A full-width "Show More" button shall be displayed below the listings. Upon clicking the button, three additional rental properties shall be loaded and displayed.
+
+The content background shall remain plain white.
+
+---
+
+## Pakistan Property Map Section
+
+Below the "For Rent" section shall be a full-width interactive map of Pakistan.
+
+The map shall initially display major cities of Pakistan including Karachi, Lahore, Islamabad, Rawalpindi, Faisalabad, Peshawar, Multan, and Quetta.
+
+Properties shall be represented through clustered location markers.
+
+When a user taps a city cluster, the map shall zoom in and reveal individual property locations within that city.
+
+Each property marker shall be clickable.
+
+Upon clicking a property marker, the user shall be able to view:
+
+* Property Name
+* Property Rate
+* Buy Button (for sale properties)
+* Rent Button (for rental properties)
+
+The map shall have a fixed mobile height of approximately 300px with an optional "Expand Map" button allowing users to view the map in a larger mode.
+
+At the top of the map section, horizontally scrollable filter chips shall be available for:
+
+* Cities
+* Provinces
+* Sale Properties
+* Rent Properties
+* All Properties
+
+Selecting a filter shall instantly update the displayed property locations.
+
+---
+
+## Property Detail Page
+
+When a user clicks on any property listing, a dedicated property detail page shall open.
+
+At the top of the page shall be a full-width swipeable image gallery displaying property photographs.
+
+Users shall be able to swipe left or right to view additional images.
+
+Below the gallery shall be:
+
+* Property Name
+* Complete Property Description
+* Property Features
+* Property Location Information
+
+Below the property information shall be a dedicated Call-to-Action section containing:
+
+### Book on WhatsApp
+
+Upon clicking this button, WhatsApp shall open automatically with a pre-filled message containing:
+
+"Inquiring about [Property Name] - [For Sale/For Rent]"
+
+This enables the company to immediately identify which property the customer is interested in.
+
+---
+
+## Agent Information Section
+
+Below the WhatsApp Call-to-Action section in property detail section shall be the assigned agent's information.
+
+The section shall contain:
+
+* Circular Agent Photograph
+* Agent Name
+* Contact Number
+* Agent Designation (optional)
+
+The design shall be clean and professional without any background image behind the agent profile.
+
+---
+
+## Footer Section
+
+Below the map section shall be a clean modern footer with a light gray background.
+
+The footer shall contain the following sections stacked vertically for mobile devices:
+
+### Company Information
+
+* Company Logo
+* Social Media Icons
+
+### Useful Links
+
+* About Us
+* Projects
+* News
+* Client Journey
+* Affiliate
+* Contact Us
+
+### Project List
+
+* Featured Projects
+* Ongoing Projects
+* Completed Projects
+
+### Contact Information
+
+* Address
+* Phone Number
+* Email Address
+* Website
+
+At the very bottom shall be a centered copyright bar.
+
+---
+
+## Floating WhatsApp Button
+
+A floating WhatsApp icon shall remain visible on the bottom-right corner of the screen at all times.
+
+The button shall:
+
+* Use official WhatsApp green (#25D366)
+* Remain visible across all pages
+* Maintain approximately 20px spacing from screen edges
+* Instantly redirect users to the company's WhatsApp Business account upon clicking
+
+---
+
+## UX
+
+When a user clicks the WhatsApp button within the hero section, the user shall be redirected to the WhatsApp Business number of the company.
+
+As the user scrolls through the application, the header shall remain sticky and shrink to a compact size.
+
+When a user taps a property card, the property detail page shall open.
+
+The user shall be able to swipe through property images using touch gestures.
+
+The property information, WhatsApp inquiry button, and agent information shall be arranged vertically for optimal mobile usability.
+
+The Pakistan map shall be fully interactive and touch-friendly, allowing users to explore properties geographically and filter listings based on city, province, and transaction type (Sale or Rent).
+
+The overall design shall prioritize speed, simplicity, readability, and mobile usability while maintaining a premium real estate brand appearance.

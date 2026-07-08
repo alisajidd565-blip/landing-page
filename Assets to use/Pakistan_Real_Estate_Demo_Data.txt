@@ -1,0 +1,520 @@
+================================================================================
+         PAKISTAN REAL ESTATE DEMO DATA — 8 PROPERTIES (ALL FOR SALE)
+                     Generated for: Elite Homes Pakistan
+================================================================================
+
+--------------------------------------------------------------------------------
+DEMO COMPANY INFO (FICTIONAL)
+--------------------------------------------------------------------------------
+
+Company Name     : Elite Homes Pakistan
+Tagline          : Find Your Place. Build Your Future.
+Phone            : +92-300-8872210
+WhatsApp         : +92-321-4491005
+Email            : info@elitehomespk.com
+Website          : www.elitehomespk.com
+Address          : Office 14, Pak Tower, Blue Area, Islamabad
+Brand Colors     : #1A2B4A (Navy Blue), #C9A84C (Gold), #FFFFFF (White)
+
+
+--------------------------------------------------------------------------------
+DEMO AGENT (FICTIONAL)
+--------------------------------------------------------------------------------
+
+Name             : Zain Mirza
+Designation      : Senior Property Consultant
+Phone            : +92-300-8872210
+Email            : zain.mirza@elitehomespk.com
+Experience       : 7 Years in Pakistani Real Estate
+Languages        : Urdu, English, Punjabi
+
+Bio:
+Zain Mirza is a seasoned property consultant with over 7 years of hands-on
+experience in Pakistan's residential and commercial real estate sector. Having
+closed deals across Karachi, Lahore, Islamabad, and Rawalpindi, he brings deep
+market knowledge and a client-first approach to every transaction. Zain
+specializes in high-rise apartments and premium housing schemes, and has
+consistently ranked among the top performers at Elite Homes Pakistan. Whether
+you are a first-time buyer or a seasoned investor, Zain ensures a smooth,
+transparent, and informed buying experience from start to finish.
+
+Photo             : [Attach: professional_headshot_of_agent.png]
+
+
+================================================================================
+PROPERTY LISTINGS
+================================================================================
+
+
+────────────────────────────────────────────────────────────────────────────────
+PROPERTY 1 — Horizon Crest Tower
+────────────────────────────────────────────────────────────────────────────────
+
+Title            : Horizon Crest Tower — Premium High-Rise Apartment
+Type             : Apartment (High-Rise)
+Status           : For Sale
+City             : Karachi
+Location         : Clifton Block 5, Karachi
+Price            : PKR 2.85 Crore
+Size             : 1,450 Sq. Ft.
+Floor            : 12th Floor (out of 18 floors)
+Bedrooms         : 3
+Bathrooms        : 2
+Agent            : Zain Mirza
+
+Short Description:
+A well-positioned high-rise apartment in the heart of Clifton offering panoramic
+city views, modern finishes, and 24/7 security in one of Karachi's most sought-
+after residential corridors.
+
+Full Description:
+Horizon Crest Tower stands tall in Clifton Block 5, one of Karachi's most
+prestigious and centrally located neighbourhoods. This 1,450 Sq. Ft. apartment
+on the 12th floor offers sweeping views of the surrounding cityscape framed
+against the Karachi hills. The building's contemporary architecture — defined by
+its curved balconies and white-and-terracotta facade — reflects a mid-premium
+aesthetic that blends well into the upscale Clifton skyline.
+
+The apartment features a spacious open-plan living and dining area with
+floor-to-ceiling windows that flood the interior with natural light. The kitchen
+is fitted with modular cabinets and granite countertops, while all three
+bedrooms offer built-in wardrobes and attached or shared bathrooms. Italian
+marble flooring runs throughout the main areas.
+
+Located minutes from Dolmen Mall Clifton, Karachi Cantonment, and major
+commercial avenues, this is an ideal choice for urban professionals and families
+seeking a prime Karachi address.
+
+Features & Amenities:
+- 3 Bedrooms, 2 Bathrooms
+- 12th Floor with City View
+- Italian Marble Flooring
+- Modular Kitchen with Granite Countertops
+- 24/7 Security & CCTV Surveillance
+- Elevator Access (2 Lifts)
+- Dedicated Parking (1 Covered Space)
+- Backup Generator for Common Areas
+- Rooftop Community Terrace
+- Close Proximity to Clifton Commercial Areas
+
+GPS Coordinates    : 24.8122, 67.0322
+Photo              : [Attach: Property_1_sale_.jpg]
+
+
+────────────────────────────────────────────────────────────────────────────────
+PROPERTY 2 — Al-Faisal Classic Residency
+────────────────────────────────────────────────────────────────────────────────
+
+Title            : Al-Faisal Classic Residency — Vintage Mid-Rise Apartment
+Type             : Apartment (Mid-Rise)
+Status           : For Sale
+City             : Karachi
+Location         : PECHS Block 2, Karachi
+Price            : PKR 1.45 Crore
+Size             : 900 Sq. Ft.
+Floor            : 3rd Floor (out of 6 floors)
+Bedrooms         : 2
+Bathrooms        : 2
+Agent            : Zain Mirza
+
+Short Description:
+A solidly built mid-rise apartment in PECHS with a distinctive arched facade
+and timeless architecture — a reliable investment in one of Karachi's most
+established residential areas.
+
+Full Description:
+Al-Faisal Classic Residency is a well-established mid-rise apartment block
+located in PECHS Block 2, a mature and densely connected neighbourhood in
+Karachi. The building is instantly recognisable by its striking cream-coloured
+facade featuring repeating oval arches — a design characteristic of late
+1980s and 1990s Karachi construction that has made it a local landmark.
+
+The 900 Sq. Ft. unit on the 3rd floor consists of 2 bedrooms, 2 bathrooms, a
+lounge, dining area, and a functional kitchen. The apartment receives good
+cross-ventilation through its arched window recesses. While the interior
+requires light renovation to bring it to contemporary standards, the structure
+itself is solid and well-maintained.
+
+This property is ideal for buyers looking for a value-for-money purchase in
+a high-demand rental zone. PECHS is one of Karachi's busiest commercial-
+residential corridors with strong rental yield potential. Close to Shahrah-e-
+Faisal, Tariq Road, and major hospitals and schools.
+
+Features & Amenities:
+- 2 Bedrooms, 2 Bathrooms
+- Iconic Arched Facade Architecture
+- Cross-Ventilated Units
+- Ground-Level Parking Available
+- Close to PECHS Commercial Markets
+- Walking Distance to Main Road Transport
+- Reliable Water Supply (Overhead Tank + Pump)
+- Separate Servant Quarter
+- 24/7 Watchman on Duty
+- Strong Rental Yield Potential (Investment Grade)
+
+GPS Coordinates    : 24.8699, 67.0626
+Photo              : [Attach: Property_2_sale_.jpg]
+
+
+────────────────────────────────────────────────────────────────────────────────
+PROPERTY 3 — Green Canopy Cottage
+────────────────────────────────────────────────────────────────────────────────
+
+Title            : Green Canopy Cottage — Rustic Single-Storey House
+Type             : House (Cottage/Independent)
+Status           : For Sale
+City             : Islamabad
+Location         : Sector F-6 Margalla Foothills, Islamabad
+Price            : PKR 85 Lakh
+Size             : 5 Marla (1,125 Sq. Ft.)
+Floors           : Single Storey
+Bedrooms         : 2
+Bathrooms        : 1
+Agent            : Zain Mirza
+
+Short Description:
+A rare character-rich cottage nestled in Islamabad's Margalla foothills zone,
+featuring a half-timber facade and green tin roof — perfect for buyers seeking
+a peaceful retreat away from the city's bustle.
+
+Full Description:
+Tucked beneath a canopy of mature chinar and eucalyptus trees in the Margalla
+foothills fringe of Islamabad, Green Canopy Cottage is a distinctive single-
+storey property that stands apart from typical urban housing. Its half-timber
+facade — white plaster panels divided by dark wooden beams in a cross-pattern —
+gives it a European countryside aesthetic that is remarkably rare in the capital.
+
+The property sits on 5 Marla of land with a large open yard blanketed in autumn
+foliage, offering complete privacy and a deeply serene environment. The interior
+comprises 2 bedrooms, 1 bathroom, a compact lounge, and a basic kitchen. The
+structure requires cosmetic renovation — particularly the exterior plaster — but
+the bones are intact and the plot value alone justifies the price.
+
+This property is suited to nature-lovers, artists, or investors looking to
+renovate and flip in a premium Islamabad address. The location offers easy
+access to Margalla Hills hiking trails, Daman-e-Koh, and the Islamabad
+Expressway. Water, electricity, and sui gas connections are in place.
+
+Features & Amenities:
+- Distinctive Half-Timber Architectural Style
+- 5 Marla Open Plot with Mature Trees
+- Peaceful Foothills Location
+- Walking Distance to Margalla Trails
+- Separate Outdoor Yard / Garden Area
+- Basic Sui Gas, Water & Electricity Connections
+- Potential for Renovation / Expansion
+- Quiet Street with Low Traffic
+- Close to Islamabad Expressway
+- Ideal for Investors / Renovation Projects
+
+GPS Coordinates    : 33.7516, 73.0654
+Photo              : [Attach: Property_3_sale_.jpg]
+
+
+────────────────────────────────────────────────────────────────────────────────
+PROPERTY 4 — Noor-ul-Hayat Grand Plaza
+────────────────────────────────────────────────────────────────────────────────
+
+Title            : Noor-ul-Hayat Grand Plaza — Luxury Islamic-Architecture Building
+Type             : Commercial / Luxury Residential (Mixed Use)
+Status           : For Sale
+City             : Islamabad
+Location         : Blue Area, G-7, Islamabad
+Price            : PKR 18.5 Crore
+Size             : 8,000 Sq. Ft. (Full Floor)
+Floors           : 5 Storeys (Full Building Available)
+Bedrooms         : N/A (Commercial / Mixed Use)
+Bathrooms        : 6
+Agent            : Zain Mirza
+
+Short Description:
+A commanding premium-grade building in Islamabad's Blue Area, featuring
+elegant Islamic-inspired architecture, solar panels, and grand arched windows
+— ideal for corporate offices, embassies, or high-end hospitality use.
+
+Full Description:
+Noor-ul-Hayat Grand Plaza is one of Islamabad's most architecturally
+distinguished properties — a 5-storey building finished in pristine white
+marble cladding with bold teal-green Islamic lattice work running across
+its facade. Pointed arches frame the ground-floor entrance, while the upper
+floors are defined by ornate arched windows and geometric tile bands that
+give the building a timeless, classical feel.
+
+The rooftop is equipped with a sizeable solar panel array, reflecting a
+commitment to energy efficiency that is increasingly rare in commercial
+properties. The structure is built to premium specifications with high-grade
+exterior cladding, wide internal corridors, and generous floor plates suitable
+for open-plan office configurations or boutique hospitality use.
+
+Located in the heart of Blue Area — Islamabad's central business district —
+the property enjoys direct access to the city's main commercial artery. It
+is surrounded by government offices, embassies, and multinational corporate
+headquarters. This is a once-in-a-market opportunity for a buyer looking to
+own a signature building in Pakistan's capital.
+
+Features & Amenities:
+- Premium Islamic-Inspired Architecture
+- White Marble Exterior Cladding
+- Teal-Green Islamic Lattice & Arched Windows
+- Solar Panel Array on Rooftop
+- 5 Storeys with Large Floor Plates
+- High Ceilings (12 ft minimum)
+- Central Location in Blue Area Business District
+- Suitable for Corporate HQ, Embassy, or Hospitality Use
+- Underground Parking Available
+- 24/7 Security & Access Control
+
+GPS Coordinates    : 33.7215, 73.0886
+Photo              : [Attach: Property_4_sale_.jpg]
+
+
+────────────────────────────────────────────────────────────────────────────────
+PROPERTY 5 — Bosphorus View Mansion
+────────────────────────────────────────────────────────────────────────────────
+
+Title            : Bosphorus View Mansion — Luxury 3-Storey Villa with Rooftop Terrace
+Type             : House / Villa (Luxury)
+Status           : For Sale
+City             : Lahore
+Location         : DHA Phase 6, Lahore
+Price            : PKR 12.75 Crore
+Size             : 2 Kanal (4,500 Sq. Ft. Built-Up)
+Floors           : 3 Storeys + Rooftop Terrace
+Bedrooms         : 6
+Bathrooms        : 5
+Agent            : Zain Mirza
+
+Short Description:
+An exceptional 2-Kanal luxury villa in DHA Phase 6 Lahore featuring a
+rooftop entertaining terrace, arched verandahs, and lush landscaped
+surroundings — one of the finest residential offerings in the city.
+
+Full Description:
+Bosphorus View Mansion is a stunning 2-Kanal villa located in the tree-lined
+avenues of DHA Phase 6, Lahore — one of the most desirable addresses in the
+country. The property rises across three well-proportioned floors, each
+featuring wide arched verandahs and floor-to-ceiling windows that draw in
+the golden Lahore sunset. A fenced rooftop terrace with metal railing completes
+the structure, offering panoramic views of the neighbourhood's lush green canopy.
+
+The interior is finished to a premium standard with Italian marble on ground
+floor, hardwood timber on upper floors, designer lighting, and custom carpentry
+throughout. The ground floor features a formal drawing room, dining for 12, a
+fully equipped kitchen, and a guest bedroom with attached bath. Upper floors
+contain 5 bedrooms including a master suite with walk-in wardrobe and an
+en-suite bathroom with imported fixtures.
+
+The exterior is equally impressive — mature trees and manicured hedgerows create
+a natural screen from the street, while a 2-car porch and service entrance are
+provided at the rear. This property is move-in ready and has been maintained
+impeccably by its current owners.
+
+Features & Amenities:
+- 2 Kanal Plot with 4,500 Sq. Ft. Built-Up Area
+- 6 Bedrooms, 5 Bathrooms
+- Rooftop Entertaining Terrace with Metal Railing
+- Arched Verandahs on All Floors
+- Italian Marble Ground Floor
+- Hardwood Timber Upper Floors
+- Fully Equipped Modular Kitchen
+- Formal Drawing Room & Dining Area
+- 2-Car Porch + Rear Service Entrance
+- Landscaped Garden & Boundary Wall
+
+GPS Coordinates    : 31.4732, 74.3987
+Photo              : [Attach: Property_5_sale_.jpg]
+
+
+────────────────────────────────────────────────────────────────────────────────
+PROPERTY 6 — Gulberg Corner Residency
+────────────────────────────────────────────────────────────────────────────────
+
+Title            : Gulberg Corner Residency — Mid-Rise Corner Apartment
+Type             : Apartment (Mid-Rise)
+Status           : For Sale
+City             : Lahore
+Location         : Gulberg III, Lahore
+Price            : PKR 1.95 Crore
+Size             : 1,100 Sq. Ft.
+Floor            : 5th Floor (Corner Unit)
+Bedrooms         : 3
+Bathrooms        : 2
+Agent            : Zain Mirza
+
+Short Description:
+A spacious corner-unit apartment in Gulberg III Lahore with wraparound
+glazed balconies, excellent natural light, and a prime location surrounded
+by Lahore's best dining, retail, and business hubs.
+
+Full Description:
+Gulberg Corner Residency occupies a premium corner position in a well-known
+mid-rise residential block in Gulberg III — one of Lahore's most commercially
+vibrant and residentially sought-after localities. The unit's corner position
+on the 5th floor gives it a wraparound configuration with large glazed balcony
+panels on two sides, flooding the interior with daylight and offering pleasant
+views over the Gulberg tree line.
+
+The 1,100 Sq. Ft. apartment has been well-maintained and features a central
+lounge, a separate dining area, 3 bedrooms (including a master with attached
+bath), and 2 bathrooms in total. The layout is practical and efficient with no
+wasted space. The building is a 7-storey structure with split-unit air
+conditioning, tiled corridors, and an elevator.
+
+Gulberg III is a 10-minute drive from Liberty Market, M.M. Alam Road, and
+Lahore's major business district. It is also within easy reach of reputable
+schools, hospitals, and major arterial roads. A strong buy for both end-users
+and investors given the area's consistent rental demand.
+
+Features & Amenities:
+- Corner Unit with Wraparound Glazed Balconies
+- 3 Bedrooms, 2 Bathrooms
+- Excellent Natural Light on Two Sides
+- Elevator-Served Building (7 Storeys)
+- Split-Unit Air Conditioning
+- Tiled Corridors & Common Areas
+- 24/7 Watchman Security
+- Covered Parking for 1 Vehicle
+- Close to M.M. Alam Road & Liberty Market
+- Strong Rental Yield Potential
+
+GPS Coordinates    : 31.5105, 74.3287
+Photo              : [Attach: Property_6_sale_.jpg]
+
+
+────────────────────────────────────────────────────────────────────────────────
+PROPERTY 7 — The Pearl Towers Islamabad
+────────────────────────────────────────────────────────────────────────────────
+
+Title            : The Pearl Towers Islamabad — Ultra-Premium High-Rise Apartment
+Type             : Apartment (Luxury High-Rise)
+Status           : For Sale
+City             : Islamabad
+Location         : Bahria Town Phase 7, Islamabad
+Price            : PKR 5.20 Crore
+Size             : 2,200 Sq. Ft.
+Floor            : 18th Floor
+Bedrooms         : 4
+Bathrooms        : 3
+Agent            : Zain Mirza
+
+Short Description:
+A flagship luxury apartment on the 18th floor of one of Islamabad's tallest
+and most premium residential towers — offering spectacular Margalla Hills views,
+4 bedrooms, and world-class amenities in Bahria Town Phase 7.
+
+Full Description:
+The Pearl Towers is a landmark development in Islamabad's premium real estate
+landscape, rising nearly 25 storeys above the Bahria Town Phase 7 skyline.
+Its beige stone-clad facade with classical detailing and crown cornices gives
+it a distinguished presence that sets it apart from typical Islamabad high-rises.
+Mature pine trees frame the base, softening the building's scale and adding to
+its prestige.
+
+This 2,200 Sq. Ft. apartment on the 18th floor represents the top tier of
+Islamabad apartment living. The unit features 4 generously sized bedrooms,
+3 full bathrooms (master en-suite with premium imported fixtures), a large
+formal drawing room, a separate family lounge, and a fully equipped kitchen
+with an attached breakfast area. Floor-to-ceiling windows throughout frame
+sweeping views of the Margalla Hills to the north and the Islamabad grid below.
+
+Residents of the Pearl Towers have access to a full suite of building amenities
+including a fitness center, swimming pool, concierge services, high-speed
+elevators, and 24/7 manned security. This property is ideal for senior
+executives, returning overseas Pakistanis, or high-net-worth investors seeking
+a trophy asset in the capital.
+
+Features & Amenities:
+- 4 Bedrooms, 3 Bathrooms (Master En-Suite)
+- 18th Floor with Margalla Hills View
+- Floor-to-Ceiling Windows Throughout
+- Formal Drawing + Family Lounge Configuration
+- Fully Equipped Premium Kitchen
+- Building Fitness Centre & Swimming Pool
+- High-Speed Elevators (3 Lifts)
+- 24/7 Concierge & Manned Security
+- 2 Covered Parking Spaces
+- Backup Generator (Full Apartment)
+
+GPS Coordinates    : 33.5651, 73.1021
+Photo              : [Attach: Property_7_sale_.jpg]
+
+
+────────────────────────────────────────────────────────────────────────────────
+PROPERTY 8 — Rawalpindi Green Enclave Apartments
+────────────────────────────────────────────────────────────────────────────────
+
+Title            : Rawalpindi Green Enclave — Gated Community Apartment Complex
+Type             : Apartment (Gated Community / Society)
+Status           : For Sale
+City             : Rawalpindi
+Location         : Chaklala Scheme 3, Rawalpindi
+Price            : PKR 78 Lakh
+Size             : 750 Sq. Ft.
+Floor            : 3rd Floor (Block B)
+Bedrooms         : 2
+Bathrooms        : 2
+Agent            : Zain Mirza
+
+Short Description:
+An affordable gated community apartment in Chaklala Scheme 3, Rawalpindi —
+surrounded by manicured green parks, tree-lined pathways, and all basic
+amenities within walking distance. Ideal for first-time buyers and small families.
+
+Full Description:
+Rawalpindi Green Enclave is a well-established gated residential community
+in Chaklala Scheme 3 — one of Rawalpindi's most organised and family-friendly
+localities. The development consists of multiple 6-storey residential blocks
+set within expansive open green spaces, paved walking paths, and internal
+community gardens. The aerial view of the complex immediately communicates
+space, order, and a genuine community living environment — qualities that are
+increasingly rare at this price point in the twin cities.
+
+This particular unit is a 750 Sq. Ft., 2-bedroom, 2-bathroom apartment on the
+3rd floor of Block B. The layout is efficient: a central lounge-dining combined
+area flows into the kitchen, while the two bedrooms are positioned at opposite
+ends for privacy. Both bathrooms are tiled and fitted with standard fixtures.
+The apartment is in good original condition with no major repairs needed.
+
+The community includes internal parks, a mosque, a basic gymnasium, a community
+centre, and 24/7 perimeter security. Located minutes from Chaklala Scheme 3
+market, NADRA offices, and 20 minutes from Islamabad Airport — making it an
+excellent choice for government employees, newly married couples, and value-
+focused investors.
+
+Features & Amenities:
+- 2 Bedrooms, 2 Bathrooms
+- Part of Large Gated Community Complex
+- Manicured Internal Green Parks
+- Tree-Lined Pedestrian Pathways
+- Community Mosque Inside Complex
+- Basic Gymnasium & Community Centre
+- 24/7 Perimeter Security
+- Parking Area within Complex
+- Close to Chaklala Scheme 3 Market
+- 20 Minutes from New Islamabad Airport
+
+GPS Coordinates    : 33.6007, 73.1213
+Photo              : [Attach: Property_8_sale_.jpg]
+
+
+================================================================================
+PROPERTY SUMMARY TABLE
+================================================================================
+
+ #  | Title                          | City        | Type           | Price          | Beds | Size
+----|--------------------------------|-------------|----------------|----------------|------|----------
+ 1  | Horizon Crest Tower            | Karachi     | Apartment      | PKR 2.85 Crore |  3   | 1,450 Sq.Ft
+ 2  | Al-Faisal Classic Residency    | Karachi     | Apartment      | PKR 1.45 Crore |  2   | 900 Sq.Ft
+ 3  | Green Canopy Cottage           | Islamabad   | House/Cottage  | PKR 85 Lakh    |  2   | 5 Marla
+ 4  | Noor-ul-Hayat Grand Plaza      | Islamabad   | Commercial     | PKR 18.5 Crore | N/A  | 8,000 Sq.Ft
+ 5  | Bosphorus View Mansion         | Lahore      | Villa          | PKR 12.75 Crore|  6   | 2 Kanal
+ 6  | Gulberg Corner Residency       | Lahore      | Apartment      | PKR 1.95 Crore |  3   | 1,100 Sq.Ft
+ 7  | The Pearl Towers Islamabad     | Islamabad   | Luxury Apt     | PKR 5.20 Crore |  4   | 2,200 Sq.Ft
+ 8  | Rawalpindi Green Enclave       | Rawalpindi  | Gated Apt      | PKR 78 Lakh    |  2   | 750 Sq.Ft
+
+
+================================================================================
+END OF DOCUMENT
+Note: All data is fictional and for demo/portfolio purposes only.
+All prices reflect approximate 2025-2026 Pakistan market rates.
+================================================================================

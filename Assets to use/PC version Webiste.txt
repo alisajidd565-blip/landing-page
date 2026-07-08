@@ -1,0 +1,52 @@
+I want to create a website for  real estate business in Pakistan.
+
+UI:
+The User Interface shall be first a cinematic shot of a property, a small video, as the backggroud and over it on the left side the name of 
+the real estate business is written in bold white fonts, I will attach the header and hero secton image for reference. Just on the bottom section of 
+hero section(the video section), there will be a tagline in small professional fonts), The header shall be following:on the extreme left shall be the logo,
+ then these on right side in sequence 
+→ Business name → WWW.business.COM → About Us → Projects → News → Client Journey → Affiliate → Contact Us → +92-_________.
+The header section shall be static.The hero section shall also have chat on whatsapp button, by clicking it the person shall land on the 
+whatsapp number of the Business.
+
+
+
+Below the hero section shall be "For sale" properties section,There shall be a heading with a big font and it shall be just in the middle saying FOR Sale, 
+ On PC at a time there shall be 3 blocks of properties in a row at a time, a block shall have picture and description along with name of agent in 
+extreme right bottom in small font along with the rate on the bottom, at a time 6 Properties are visible at a time on PC,then we will have to click show
+ more written in small fonts to see more properties.
+while on mobile it shall be 2 properties in a row and 4 properties at a time and then we will have to click show more to see 4 more properties on mobile. 
+
+
+Then Below "For Sale " there shall be "For rent" Section, There shall be a heading with a big font and it shall be just in the middle saying FOR Rent,  
+On PC at a time there shall be 3 blocks of properties in a row at a time, a block shall have picture and description along with the rate on the bottom, 
+at a time 6 Properties are visible at a time and then we have to click show more written in small font to see more properties.  
+while on mobile it shall be 2 properties in a row and 4 properties at a time and then we will have to click show more to see 4 more properties on mobile.
+
+Below the For rent section there shall be  whole map of Pakistan on which our each property would me shown and clickable, 
+when we will click on it we will be able to see its rate along with buy or rent button as the property would be. On top right section of MAP 
+there shall also a optional filter button for cities,province and also for , rent and sale properties. 
+
+Then below there shall be a footer section, Clean modern footer with light gray background, four columns including logo with social icons, 
+useful links, project list, and contact info, plus a simple centered copyright bar at the bottom.
+
+
+
+It shall also have a floating Whatsapp icon on bottom right section all the time.
+
+
+
+
+UX:
+When person clicks on chat on whatsapp button on hero section, he shall be redirected to whatsapp business number of the company.
+when person scrolls down the webaite the header shall be sticked to the top.
+When person clicks on any property, then the full description of property shall open, it shall have ictures of property that will show one by one, as 1 picture fades next shows
+also when he clicks then the pictures become sildeable. person slides and picture changes to next one. 70% of left section of the page shall have this, the remainig 30 percent
+ shall contain CTA(book on whatsapp, and when someone clicks on it, the whatsapp shall open with that specific property mentioned in message so company knows he 
+is inquiring about that specific property and whtjer its either for rent or sale)
+and below all the CTA there shall be details of the agent along with his picture with website as bacground of his image.
+
+The background of the content section shall be plain white.
+
+The Map section shall be from left to right full and initially one can see whole map of Pakistan with those specific sections seen as icons on the map.
+
