@@ -43,7 +43,7 @@ type PropertyListing = {
   short: string;
 };
 
-const heroImage = "/imec-hero-header.webp";
+const heroImage = `${import.meta.env.BASE_URL}imec-hero-header.webp`;
 
 const business = {
   name: "IMEC Real Estate",
@@ -81,7 +81,7 @@ const featuredProperties: PropertyListing[] = [
     size: "1,450 Sq. Ft.",
     beds: "3",
     baths: "2",
-    image: "/property-horizon-crest.webp",
+    image: `${import.meta.env.BASE_URL}property-horizon-crest.webp`,
     short:
       "Modern apartment with city views, secure parking, and quick access to Clifton amenities.",
   },
@@ -96,7 +96,7 @@ const featuredProperties: PropertyListing[] = [
     size: "900 Sq. Ft.",
     beds: "2",
     baths: "2",
-    image: "/property-al-faisal.webp",
+    image: `${import.meta.env.BASE_URL}property-al-faisal.webp`,
     short: "Practical family apartment in a connected area near markets, schools, and transport.",
   },
   {
@@ -110,7 +110,7 @@ const featuredProperties: PropertyListing[] = [
     size: "5 Marla",
     beds: "2",
     baths: "1",
-    image: "/property-green-canopy.webp",
+    image: `${import.meta.env.BASE_URL}property-green-canopy.webp`,
     short:
       "Quiet cottage-style rental near Margalla trails with a private yard and active utilities.",
   },
@@ -125,7 +125,7 @@ const featuredProperties: PropertyListing[] = [
     size: "8,000 Sq. Ft.",
     beds: "Office",
     baths: "6",
-    image: "/property-noor-plaza.webp",
+    image: `${import.meta.env.BASE_URL}property-noor-plaza.webp`,
     short:
       "High-visibility commercial space suited for offices, showrooms, or corporate operations.",
   },
@@ -140,7 +140,7 @@ const featuredProperties: PropertyListing[] = [
     size: "2 Kanal",
     beds: "6",
     baths: "5",
-    image: "/property-bosphorus.webp",
+    image: `${import.meta.env.BASE_URL}property-bosphorus.webp`,
     short:
       "Spacious DHA villa with multiple family areas, rooftop space, and landscaped outdoor areas.",
   },
@@ -155,7 +155,7 @@ const featuredProperties: PropertyListing[] = [
     size: "750 Sq. Ft.",
     beds: "2",
     baths: "2",
-    image: "/property-rawalpindi-green.webp",
+    image: `${import.meta.env.BASE_URL}property-rawalpindi-green.webp`,
     short:
       "Affordable apartment in a gated setting with parks, community facilities, and daily amenities.",
   },
@@ -203,7 +203,7 @@ const navItems = [
   { label: "Contact", href: "#contact" },
 ];
 
-function Index() {
+export function Index() {
   return (
     <div className="min-h-screen bg-background text-foreground">
       <Header />
