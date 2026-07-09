@@ -3,10 +3,7 @@ import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 import tsconfigPaths from "vite-tsconfig-paths";
 
-const repoName = process.env.GITHUB_REPOSITORY?.split("/")[1] ?? "";
-const isGitHubPages = process.env.GITHUB_ACTIONS === "true";
-
 export default defineConfig({
-  base: isGitHubPages ? `/${repoName}/` : "/",
+  base: "/landing-page/",
   plugins: [react(), tailwindcss(), tsconfigPaths()],
 });

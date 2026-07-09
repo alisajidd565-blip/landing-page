@@ -1,4 +1,3 @@
-import { createFileRoute } from "@tanstack/react-router";
 import type { FormEvent } from "react";
 import { useEffect, useState } from "react";
 import {
@@ -23,10 +22,6 @@ import {
 
 import agentPhoto from "../../Assets to use/professional headshot of agent.png";
 import logo from "../../Assets to use/Logo.jpg";
-
-export const Route = createFileRoute("/")({
-  component: Index,
-});
 
 type PropertyListing = {
   id: string;
